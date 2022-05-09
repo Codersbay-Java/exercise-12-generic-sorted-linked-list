@@ -1,8 +1,10 @@
 package application;
 
 public class Main {
-
-	public static void main(String[] args) {
-		System.out.println("Hello Exercise World 😁");
-	}
+    public static void main(String[] args) {
+       /*
+            test your implementation here
+        */
+    }
 }
+
